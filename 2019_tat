@@ -1,0 +1,57 @@
+<html5>
+  <head>
+    <link rel="stylesheet" href="style1.css">
+    <title>Julian Rees - TERACHEM 2018</title>
+    <link rel="icon" href="img/flask.png">
+  </head>
+  <body>
+  <header>
+    Julian A. Rees, Ph.D.
+  </header>
+  <nav>
+    <a href="index.html">home</a> |
+    <a href="projects.html">projects</a> |
+    <a href="research.html">CV and research</a> |
+    <a href="http://github.com/julianrees" target="_blank">GitHub profile</a> |
+    <a href="contact.html">contact</a>
+  </nav>
+
+  <section>
+    <p>
+      <b>Bioconjugation of actinides using a peptoid scaffold</b><br />
+      <b>Targeted Alpha Therapy 11, Ottawa, Canada, 2019</b><br /><br  />
+      <b>Selected References</b><br /><br />
+      <a href="http://dx.doi.org/10.1039/C3OB41990H"> Baco, E. <i>et al. Org. Biomol. Chem.</i>, <b>2014</b>, <i>12</i>, 749 </a><br />
+      <a href="http://dx.doi.org/10.1021/ja00052a076">  Zuckermann, R. N. <i>et al. J. Am. Chem. Soc.</i>, <b>1992</b>, <i>114</i>, 10646</a><br />
+      <a href="http://dx.doi.org/10.1021/acs.inorgchem.6b02041">  Captain, I. <i>et al. Inorg. Chem.</i>, <b>2016</b>, <i>55</i>, 11930</a><br />
+      <a href="http://dx.doi.org/10.1016/S0010-8545(98)00260-4">  Alderighi <i>et al. Coord. Chem. Rev.</i>, <b>1999</b>, <i>184</i>, 311</a>
+      <a href="https://patentscope.wipo.int/search/de/detail.jsf;jsessionid=CBE568D8BF746B768FF5F5BE5F304D8A.wapp2nA?docId=WO2018063638">Abergel, Captain, Rees. WO/2018/063638</a>
+  </p>
+</section>
+
+<section>
+  <img src="img/ALS_night.jpg" alt="ALS" width="576" height="324"><br  />
+<div class="floating-text">
+  <span font-size="20">
+  <p align=center>
+    BioActinide Chemistry Research Group<br />
+    Prof. Rebecca J. Abergel, P.I.<br />
+    Chemical Sciences Division, Heavy Element Chemistry Program<br />
+    Lawrence Berkeley National Laboratory<br />
+    One Cyclotron Road, Mailstop 70A-1150<br />
+    Berkeley, CA 94720<br />
+    <br />
+    Department of Nuclear Engineering<br  />
+    University of California, Berkeley<br />
+    4109 Etcheverry Hall<br />
+    Berkeley, CA 94720
+  </span>
+</div>
+</section>
+
+<footer>
+  Copyright 2019 Julian Avery Rees
+</footer>
+
+</body>
+</html5>
